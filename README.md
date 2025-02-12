@@ -30,8 +30,8 @@
 <!-- 깃허브 통계 -->
 ### 📊 GitHub 활동
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyle-TM99&show_icons=true&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-TM99&theme=tokyonight" height="150px"/>
 </p>
 
 ---
