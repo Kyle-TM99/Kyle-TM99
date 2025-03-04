@@ -33,6 +33,8 @@
 - **RESTful API**: 효율적인 API 설계 및 구현
 - **JWT (JSON Web Token) 인증**: 보안 강화 및 사용자 인증
 - **NoSQL (MongoDB)**: 다양한 데이터 모델을 지원하는 유연한 데이터베이스 시스템
+- **Kotlin**: 간결한 문법과 높은 생산성을 제공하는 현대적인 JVM 언어
+- **JPA (Java Persistence API)**: 객체지향적인 방식으로 데이터베이스를 관리하는 ORM 기술
 
 ---
 
