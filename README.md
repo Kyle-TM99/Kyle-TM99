@@ -1,77 +1,82 @@
-<h1 align="center">🚀 Kyle의 GitHub에 오신 것을 환영합니다! 👨‍💻</h1>
-<p align="center">열정적인 <strong>백엔드 개발자</strong> | <strong>확장성 & DevOps</strong>에 집중</p>
+<h1 align="center">👨‍💻 Kyle's Dev Journey</h1>
+<p align="center">백엔드 개발자 | 클라우드 & DevOps Enthusiast | 문제 해결형 성장러</p>
 
 ---
 
-## 👋 소개
-💡 **사용자에게 가치를 제공하는 서비스 개발**을 목표로 하고 있습니다.  
-🔥 개발 과정에서 **문제를 해결하는 과정**을 즐기며 끊임없이 성장하고 있습니다.  
-🔍 **효율적인 시스템 설계, 클라우드 환경, 인프라 최적화**에 관심이 많습니다.
+## 🧑‍💻 About Me
+
+- 💡 **사용자에게 실질적인 가치를 주는 백엔드 서비스 개발**을 지향합니다.  
+- 🧩 **문제를 해결하는 과정에서 즐거움과 성장**을 추구합니다.  
+- ☁️ **클라우드 인프라, DevOps, 시스템 아키텍처**에 관심이 많습니다.  
+- 🔁 지속적으로 리팩토링하며 **더 나은 코드**를 지향합니다.  
 
 ---
 
-## 🛠️ 기술 스택
-### 🔹 언어 & 프레임워크
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,html,css,js" />
+## 🔧 Tech Stack
+
+### 📌 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,html,css,js" />
 </p>
 
-### ⚙️ DevOps & 클라우드
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,jenkins,githubactions" />
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,jenkins,githubactions,linux" />
 </p>
 
-### 🛠️ 데이터베이스 & 도구
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,intellij" />
+### 🛠️ Tools & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,intellij" />
 </p>
 
 ---
 
-## 📚 현재 배우고 있는 기술
+## 📚 Learning Now
 
-- **RESTful API**: 효율적인 API 설계 및 구현
-- **JWT (JSON Web Token) 인증**: 보안 강화 및 사용자 인증
-- **NoSQL (MongoDB)**: 다양한 데이터 모델을 지원하는 유연한 데이터베이스 시스템
-- **Kotlin**: 간결한 문법과 높은 생산성을 제공하는 현대적인 JVM 언어
-- **JPA (Java Persistence API)**: 객체지향적인 방식으로 데이터베이스를 관리하는 ORM 기술
-
----
-
-## 🚀 프로젝트 경험
-### 🏗️ OneDevelop
-- 팀 프로젝트 [PL]
-- 개발자 커뮤니티 플랫폼
-
-
-### 🛒 KyleMall
-- 개인 프로젝트
-- 이커머스 웹 애플리케이션
-
-### 💬 KyleTalk
-- 개인 프로젝트
-- 실시간 채팅 서비스
-
-### 🏢 OneStack 
-- 팀 프로젝트 [PL]
-- DevOps 중심의 프로젝트 관리 도구
+- 🛠 **RESTful API** — 효율적인 HTTP 기반 API 설계
+- 🔐 **JWT 인증 시스템** — 보안과 사용자 인증 강화
+- 🧩 **JPA & ORM** — 객체지향 데이터베이스 매핑
+- 🚀 **Kotlin** — 간결하고 현대적인 JVM 언어
+- 🧬 **MongoDB** — 비정형 데이터 구조 학습 중
 
 ---
 
-## 📈 GitHub 활동
+## 🚀 Side Projects
+
+### 👨‍💻 개인 & 팀 프로젝트
+
+| 프로젝트명 | 설명 | 기술스택 |
+|-----------|------|----------|
+| **🛠 OneStack** | DevOps 중심 협업 툴, 팀 프로젝트 (PL) | Spring, Docker, Jenkins |
+| **🗨 KyleTalk** | 실시간 채팅 개인 서비스 | WebSocket, Redis, Spring |
+| **🛒 KyleMall** | 개인 이커머스 웹 애플리케이션 | Spring, MySQL, AWS S3 |
+| **👥 OneDevelop** | 개발자 커뮤니티 플랫폼, 팀 프로젝트 (PL) | Java, Spring, GitHub Actions |
+
+### 🏢 회사 프로젝트
+
+| 프로젝트명 | 설명 | 기술스택 |
+|------------|------|----------|
+| **📘 OnClass** | 전자책·강의 판매 플랫폼. 기획부터 개발·운영까지 1인 풀스택으로 구축 | Spring Boot, MySQL, AWS EC2/S3, Jenkins, PortOne, Docker |
+
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyle-TM99&show_icons=true&theme=radical" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-TM99&theme=radical" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyle-TM99&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyle-TM99&theme=radical" />
 </p>
 
 ---
 
-## 📬 연락하기
-📧 **이메일**: rlaxoals9977@gmail.com  
-🌐 **블로그**: [Kyle Developer Story](https://pids.tistory.com/)  
+## 📬 Contact Me
 
-💬 협업, 토론 또는 흥미로운 프로젝트에 대해 언제든지 연락 주세요!
+- 📧 Email: **rlaxoals9977@gmail.com**
+- 📝 Blog: [**Kyle Developer Story**](https://pids.tistory.com/)
+
+> 🫱 언제든지 협업, 네트워킹, 기술 토론 환영합니다!
