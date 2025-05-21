@@ -48,9 +48,9 @@
 | 프로젝트명 | 설명 | 기술스택 |
 |-----------|------|----------|
 | **🛠 [OneStack](https://github.com/Kyle-TM99/OneStack)** | DevOps 중심 협업 툴, 팀 프로젝트 (PL) | Spring, Docker, Jenkins |
-| **🗨 [KyleTalk](https://github.com/Kyle-TM99/KyleTalk)** | 실시간 채팅 개인 서비스 | WebSocket, Redis, Spring |
-| **🛒 [KyleMall](https://github.com/Kyle-TM99/KyleMall)** | 이커머스 웹 애플리케이션 | Spring, MySQL, AWS S3 |
-| **👥 [OneDevelop](https://github.com/Kyle-TM99/OneDevelop)** | 개발자 커뮤니티 플랫폼, 팀 프로젝트 (PL) | Java, Spring, GitHub Actions |
+| **🗨 [KyleTalk](https://github.com/Kyle-TM99/KyleTalk)** | 실시간 채팅 개인 서비스 | WebSocket, Spring |
+| **🛒 [KyleMall](https://github.com/Kyle-TM99/KyleMall)** | 이커머스 웹 애플리케이션 | Spring, MySQL, AWS EC2 |
+| **👥 [OneDevelop](https://github.com/Kyle-TM99/OneDevelop)** | 개발자 커뮤니티 플랫폼, 팀 프로젝트 (PL) | Java, Spring |
 
 ### 🏢 회사 프로젝트
 
