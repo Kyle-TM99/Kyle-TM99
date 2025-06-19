@@ -1,9 +1,8 @@
-<h1 align="center">👨‍💻 Kyle's Dev Journey</h1>
-<p align="center">백엔드 개발자 | 클라우드 & DevOps Enthusiast | 문제 해결형 성장러</p>
-
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyle%20Dev%20Journey&fontSize=90&animation=fadeIn&fontAlignY=38&desc=be%20kind,%20be%20useful,%20be%20fearless&descAlignY=51&descAlign=62"/>
+</p>
 ---
-
-## 🧑‍💻 About Me
+<p align='center'>🧑‍💻 About Me</p>
 
 - 💡 **사용자에게 실질적인 가치를 주는 백엔드 서비스 개발**을 지향합니다.  
 - 🧩 **문제를 해결하는 과정에서 즐거움과 성장**을 추구합니다.  
@@ -64,6 +63,9 @@
 
 ## 📊 GitHub Stats
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyle-TM99&show_icons=true&theme=radical" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-TM99&theme=radical" height="160px"/>
@@ -81,3 +83,8 @@
 - 📝 Blog: [**Kyle Developer Story**](https://pids.tistory.com/)
 
 > 🫱 언제든지 협업, 네트워킹, 기술 토론 환영합니다!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer&text=Thank%20you!&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
+</p>
+Backend Develop | Cloud & DevOps Enthusiast | Problem-solving Growth Enthusiast</p>
+
