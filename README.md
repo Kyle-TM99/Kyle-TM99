@@ -1,8 +1,12 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kyle%20Dev%20Journey&fontSize=90&animation=fadeIn&fontAlignY=38&desc=be%20kind,%20be%20useful,%20be%20fearless&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=F7EFE9&fontColor=363636&height=300&section=header&text=Kyle%20Dev%20Journey&fontSize=90&animation=fadeIn&fontAlignY=38&desc=be%20kind,%20be%20useful,%20be%20fearless&descAlignY=51&descAlign=62"/>
 </p>
+
 ---
-<p align='center'>🧑‍💻 About Me</p>
+
+
+
+## 🧑‍💻 About Me
 
 - 💡 **사용자에게 실질적인 가치를 주는 백엔드 서비스 개발**을 지향합니다.  
 - 🧩 **문제를 해결하는 과정에서 즐거움과 성장**을 추구합니다.  
@@ -14,7 +18,7 @@
 ## 🔧 Tech Stack
 
 ### 📌 Languages & Frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,html,css,js" />
 </p>
 
@@ -58,13 +62,14 @@
 | **📘 [OnClass](https://onclass.store)** | 전자책·강의 판매 플랫폼. **기획부터 개발·운영까지 1인 풀스택으로 구축** | Spring Boot, MySQL, AWS EC2/S3, Jenkins, Docker, PortOne, GitHub Actions |
 
 
-
 ---
 
 ## 📊 GitHub Stats
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+<p align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pids"/>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kyle-TM99&show_icons=true&theme=radical" height="160px"/>
