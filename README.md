@@ -1,6 +1,6 @@
-# Kyle-TM99.github.io
-
 <div align="center">
+
+# Kyle-TM99.github.io
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=김태민%20(TAEMIN%20KIM)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=51&descAlign=62)
 
@@ -8,33 +8,31 @@
 
 <br>
 
-## 👋 안녕하세요!
-
-<table>
+<table align="center">
   <tr>
     <td align="center" width="300px">
-      <img src="https://github.com/Kyle-TM99/Kyle-TM99/assets/your-avatar-url/taemin.jpg" width="200px" height="200px" style="border-radius: 50%; border: 3px solid #667eea;" alt="김태민"/>
+      <img src="https://github.com/Kyle-TM99/Kyle-TM99/image/taemin.jpg" width="200px" height="200px" style="border-radius: 50%; border: 3px solid #667eea;" alt="김태민"/>
       <br><br>
       <strong>김태민 (Kyle)</strong>
       <br>
       <em>Backend Developer</em>
     </td>
-    <td align="left" width="500px">
+    <td align="center" width="500px">
       <h3>🎯 핵심 역량</h3>
-      <ul>
-        <li><strong>엔드투엔드 개발:</strong> 기획부터 배포까지 전체 프로세스 주도</li>
-        <li><strong>팀 리더십:</strong> 프로젝트 조율 및 커뮤니케이션 관리</li>
-        <li><strong>1인 풀스택:</strong> 독립적인 개발 및 운영 능력</li>
-        <li><strong>문제 해결:</strong> 빠른 구조화 및 책임감 있는 해결</li>
-      </ul>
+      <div align="center">
+        ✨ <strong>엔드투엔드 개발:</strong> 기획부터 배포까지 전체 프로세스 주도<br>
+        👥 <strong>팀 리더십:</strong> 프로젝트 조율 및 커뮤니케이션 관리<br>
+        🚀 <strong>1인 풀스택:</strong> 독립적인 개발 및 운영 능력<br>
+        💡 <strong>문제 해결:</strong> 빠른 구조화 및 책임감 있는 해결
+      </div>
       <br>
       <h3>📊 개인 정보</h3>
-      <ul>
-        <li><strong>나이:</strong> 남, 1999 (25세)</li>
-        <li><strong>이메일:</strong> rlaxoals9977@gmail.com</li>
-        <li><strong>연락처:</strong> 010-5578-5037</li>
-        <li><strong>위치:</strong> Seoul, Korea</li>
-      </ul>
+      <div align="center">
+        🎂 <strong>나이:</strong> 남, 1999 (25세)<br>
+        📧 <strong>이메일:</strong> rlaxoals9977@gmail.com<br>
+        📱 <strong>연락처:</strong> 010-5578-5037<br>
+        🌍 <strong>위치:</strong> Seoul, Korea
+      </div>
     </td>
   </tr>
 </table>
@@ -114,34 +112,23 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyle-TM99&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&bg_color=0,667eea,764ba2&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-TM99&layout=compact&theme=gradient&bg_color=0,667eea,764ba2&title_color=fff&text_color=fff&border_color=fff&border_radius=15"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyle-TM99&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&bg_color=0,667eea,764ba2&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=15"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-TM99&theme=gradient&background=0,667eea,764ba2&border=fff&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&border_radius=15" alt="GitHub Streak"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kyle-TM99&theme=gradient&background=0,667eea,764ba2&border=fff&stroke=fff&ring=fff&fire=fff&currStreakNum=fff&sideNums=fff&currStreakLabel=fff&sideLabels=fff&dates=fff&border_radius=15" alt="GitHub Streak"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyle-TM99&bg_color=0,667eea,764ba2&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&custom_title=Kyle's%20Contribution%20Graph" alt="GitHub Activity Graph"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyle-TM99&bg_color=0,667eea,764ba2&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff&custom_title=Kyle's%20Contribution%20Graph" alt="GitHub Activity Graph"/>
 
 <br>
 
 ## 🏆 Algorithm Stats
 
-<div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pids" alt="Solved.ac Profile"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyle-TM99&show_icons=true&theme=tokyonight&custom_title=Algorithm%20Journey&bg_color=0,667eea,764ba2&title_color=fff&text_color=fff&icon_color=fff&border_color=fff&border_radius=15"/>
-</div>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pids" alt="Solved.ac Profile"/>
 
 <br>
 
 ## 🚀 주요 프로젝트
 
-<table align="center">
+<table align="center" width="90%">
   <tr>
     <td align="center" width="50%">
       <img src="https://img.shields.io/badge/OneStack-IT%20전문가%20매칭%20플랫폼-blue?style=for-the-badge&logo=users&logoColor=white&color=667eea" alt="OneStack"/>
@@ -213,92 +200,74 @@
 
 ## 🏆 주요 성과
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/🎯%20인사팀%20업무%20효율-60%25%20증가-success?style=for-the-badge&color=4ade80" alt="효율 증가"/>
-  <img src="https://img.shields.io/badge/🚀%20배포%20시간-단축%20달성-blue?style=for-the-badge&color=667eea" alt="배포 최적화"/>
-  <img src="https://img.shields.io/badge/👥%20팀%20프로젝트-2회%20리딩-orange?style=for-the-badge&color=f59e0b" alt="팀 리딩"/>
-  <img src="https://img.shields.io/badge/💡%201인%20풀스택-개발%20완료-purple?style=for-the-badge&color=8b5cf6" alt="풀스택 개발"/>
-
-</div>
+<img src="https://img.shields.io/badge/🎯%20인사팀%20업무%20효율-60%25%20증가-success?style=for-the-badge&color=4ade80" alt="효율 증가"/>
+<img src="https://img.shields.io/badge/🚀%20배포%20시간-단축%20달성-blue?style=for-the-badge&color=667eea" alt="배포 최적화"/>
+<img src="https://img.shields.io/badge/👥%20팀%20프로젝트-2회%20리딩-orange?style=for-the-badge&color=f59e0b" alt="팀 리딩"/>
+<img src="https://img.shields.io/badge/💡%201인%20풀스택-개발%20완료-purple?style=for-the-badge&color=8b5cf6" alt="풀스택 개발"/>
 
 <br>
 
 ## 📈 개발 활동
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kyle-TM99&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Kyle-TM99&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyle-TM99&theme=github_dark" alt="Profile Details"/>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kyle-TM99&theme=github_dark" alt="Profile Details"/>
 
 <br>
 
 ## 🌐 Connect With Me
 
-<div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlaxoals9977@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kyle-TM99)
-  [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pids.tistory.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taemin-kim-353b20352/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio%20OS-667eea?style=for-the-badge&logo=web&logoColor=white)](https://kyle-tm99.github.io)
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rlaxoals9977@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kyle-TM99)
+[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pids.tistory.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taemin-kim-353b20352/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20OS-667eea?style=for-the-badge&logo=web&logoColor=white)](https://kyle-tm99.github.io)
 
 <br>
 
 ## 💭 개발 철학
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🎯-목표%20지향-blue?style=for-the-badge&color=667eea" alt="목표 지향"/>
-        <br><br>
-        <strong>End-to-End</strong><br>
-        기획부터 배포까지<br>
-        완성도 있는 개발
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/👥-팀워크-green?style=for-the-badge&color=4ade80" alt="팀워크"/>
-        <br><br>
-        <strong>Leadership</strong><br>
-        효과적인 소통과<br>
-        팀 프로젝트 리딩
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/💡-문제%20해결-orange?style=for-the-badge&color=f59e0b" alt="문제 해결"/>
-        <br><br>
-        <strong>Problem Solving</strong><br>
-        빠른 구조화와<br>
-        책임감 있는 해결
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🚀-지속%20성장-purple?style=for-the-badge&color=8b5cf6" alt="지속 성장"/>
-        <br><br>
-        <strong>Continuous Growth</strong><br>
-        새로운 기술 학습과<br>
-        끊임없는 개선
-      </td>
-    </tr>
-  </table>
-
-</div>
+<table align="center" width="90%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🎯-목표%20지향-blue?style=for-the-badge&color=667eea" alt="목표 지향"/>
+      <br><br>
+      <strong>End-to-End</strong><br>
+      기획부터 배포까지<br>
+      완성도 있는 개발
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/👥-팀워크-green?style=for-the-badge&color=4ade80" alt="팀워크"/>
+      <br><br>
+      <strong>Leadership</strong><br>
+      효과적인 소통과<br>
+      팀 프로젝트 리딩
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/💡-문제%20해결-orange?style=for-the-badge&color=f59e0b" alt="문제 해결"/>
+      <br><br>
+      <strong>Problem Solving</strong><br>
+      빠른 구조화와<br>
+      책임감 있는 해결
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🚀-지속%20성장-purple?style=for-the-badge&color=8b5cf6" alt="지속 성장"/>
+      <br><br>
+      <strong>Continuous Growth</strong><br>
+      새로운 기술 학습과<br>
+      끊임없는 개선
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ---
 
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Kyle-TM99/count.svg)
-  
-  <br>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn" alt="footer"/>
+![Visitor Count](https://profile-counter.glitch.me/Kyle-TM99/count.svg)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn" alt="footer"/>
 
 </div>
