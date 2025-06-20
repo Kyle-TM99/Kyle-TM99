@@ -2,21 +2,23 @@
 
 # Kyle-TM99.github.io
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=김태민%20(TAEMIN%20KIM)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Kyle%20(TAEMIN%20KIM)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines="처음부터+끝까지%2C+제가+직접+만듭니다.";Backend+Developer;Full+Stack+%26+DevOps+Engineer;Team+Leader+%26+Problem+Solver)](https://git.io/typing-svg)
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="300px">
-      <img src="https://github.com/Kyle-TM99/Kyle-TM99/image/taemin.jpg" width="200px" height="200px" style="border-radius: 50%; border: 3px solid #667eea;" alt="김태민"/>
-      <br><br>
-      <strong>김태민 (Kyle)</strong>
-      <br>
-      <em>Backend Developer</em>
-    </td>
+  <table align="center">
+    <tr>
+      <td align="center" width="300px">
+        <img src="https://github.com/Kyle-TM99.png" width="200" height="200" alt="김태민"/>
+        <br>
+        <sub><i>확신은 가장 우유부단한 사고방식</i></sub>
+        <br><br>
+        <strong>김태민 (Kyle)</strong>
+        <br>
+        <em>Backend Developer</em>
+      </td>
     <td align="center" width="500px">
       <h3>🎯 핵심 역량</h3>
       <div align="center">
