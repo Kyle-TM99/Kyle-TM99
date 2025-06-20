@@ -1,7 +1,5 @@
 <div align="center">
 
-# Kyle-TM99.github.io
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Kyle%20(TAEMIN%20KIM)&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines="처음부터+끝까지%2C+제가+직접+만듭니다.";Backend+Developer;Full+Stack+%26+DevOps+Engineer;Team+Leader+%26+Problem+Solver)](https://git.io/typing-svg)
