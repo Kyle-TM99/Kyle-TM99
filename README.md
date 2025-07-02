@@ -52,7 +52,6 @@
       <br><br>
       🎯 <strong>온라인 교육 플랫폼 1인 풀스택 개발</strong><br>
       🔧 <strong>사내 Python 업무 자동화 시스템 구축</strong><br>
-      📈 <strong>인사팀 업무 효율 60% 증가 달성</strong>
     </td>
   </tr>
 </table>
