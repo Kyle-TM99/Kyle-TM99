@@ -220,7 +220,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kyle-TM99)
 [![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://pids.tistory.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taemin-kim-353b20352/)
-[![Portfolio](https://img.shields.io/badge/Portfolio%20OS-667eea?style=for-the-badge&logo=web&logoColor=white)]([https://kyle-tm99.github.io](https://kyle-os-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio%20OS-667eea?style=for-the-badge&logo=web&logoColor=white)](https://kyle-os-portfolio.vercel.app/)
 
 <br>
 
